@@ -1,1 +1,1 @@
-# SP Project
+# Design Patterns Lab Files
