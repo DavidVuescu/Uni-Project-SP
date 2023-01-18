@@ -19,11 +19,26 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Author.cpp" />
     <ClCompile Include="Book.cpp" />
+    <ClCompile Include="Chapter.cpp" />
+    <ClCompile Include="Image.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Paragraph.cpp" />
+    <ClCompile Include="SubChapter.cpp" />
+    <ClCompile Include="Table.cpp" />
+    <ClCompile Include="TableOfContents.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Author.h" />
     <ClInclude Include="Book.h" />
+    <ClInclude Include="Chapter.h" />
+    <ClInclude Include="Image.h" />
+    <ClInclude Include="Includes.h" />
+    <ClInclude Include="Paragraph.h" />
+    <ClInclude Include="SubChapter.h" />
+    <ClInclude Include="Table.h" />
+    <ClInclude Include="TableOfContents.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
