@@ -35,6 +35,7 @@
     <ClInclude Include="Chapter.h" />
     <ClInclude Include="Image.h" />
     <ClInclude Include="Includes.h" />
+    <ClInclude Include="Element.h" />
     <ClInclude Include="Paragraph.h" />
     <ClInclude Include="SubChapter.h" />
     <ClInclude Include="Table.h" />

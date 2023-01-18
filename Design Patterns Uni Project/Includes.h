@@ -14,6 +14,7 @@
 #include "Book.h"
 #include "Author.h"
 #include "TableOfContents.h"
+#include "Element.h"
 
 #endif // !Includes
 
