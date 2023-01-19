@@ -1,11 +1,16 @@
 public class Author {
-    private String author;
+    private String name;
+    private String surname;
 
-    public Author(String author) {
-        this.author = author;
+    public Author(String name) {
+        this.name = name;
+    }
+    public Author(String name, String surname) {
+        this.name = name;
+        this.surname = surname;
     }
 
     public void print(){
-        System.out.println("Author: "+ author);
+        System.out.println("Author: " + name + surname);
     }
 }
