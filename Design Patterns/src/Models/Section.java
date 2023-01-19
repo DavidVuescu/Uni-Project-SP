@@ -1,3 +1,6 @@
+package Models;
+
+import Services.Visitor;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -26,5 +29,12 @@ public class Section implements Element{
     }
     public Element get(int index){
         return elements.get(index);
+    }
+
+    public void accept(Visitor visitor) {
+        visitor.visitSection(this);
+        for(Element element: elements) {
+            element.accept(visitor);
+        }
     }
 }

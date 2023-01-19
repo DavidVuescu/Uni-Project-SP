@@ -1,3 +1,5 @@
+package Models;
+
 public class Author {
     private String name;
     private String surname;
@@ -11,6 +13,6 @@ public class Author {
     }
 
     public void print(){
-        System.out.println("Author: " + name + surname);
+        System.out.println("Models.Author: " + name + surname);
     }
 }

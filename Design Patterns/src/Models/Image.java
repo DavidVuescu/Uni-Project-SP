@@ -1,3 +1,6 @@
+package Models;
+
+import Services.Visitor;
 import java.util.concurrent.TimeUnit;
 
 public class Image implements Element {
@@ -14,7 +17,7 @@ public class Image implements Element {
     }
 
     public void print() {
-        System.out.println("Image with name: " + name);
+        System.out.println("Models.Image with name: " + name);
     }
 
     public void add(Element e) {}
@@ -23,4 +26,7 @@ public class Image implements Element {
         return null;
     }
 
+    public void accept(Visitor visitor) {
+        visitor.visitImage(this);
+    }
 }

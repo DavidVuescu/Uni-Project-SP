@@ -1,5 +1,8 @@
+package Models;
+
+import Services.Visitor;
+
 import java.awt.*;
-import java.util.List;
 
 public class ImgProxy implements Picture, Element{
 
@@ -27,5 +30,9 @@ public class ImgProxy implements Picture, Element{
     public void remove(Element e) {}
     public Element get(int index){
         return null;
+    }
+
+    public void accept(Visitor visitor) {
+        visitor.visitImageProxy(this);
     }
 }
