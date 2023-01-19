@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cdb897d-91e0-453b-84d6-2fa3553694b5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Components/ClientComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Components/SingletonComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Components/TransientComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/Controllers/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/MySpringApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Test1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Image.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/ImgProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Models/ImgProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/Paragraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Paragraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/Picture.java" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Picture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/Section.java" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Section.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/SubChapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Models/SubChapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Services/AlignCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Services/AlignCenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Services/AlignLeft.java" beforeDir="false" afterPath="$PROJECT_DIR$/Services/AlignLeft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Services/AlignRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/Services/AlignRight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Services/AlignStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Services/AlignStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Services/BMPImageLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Services/BMPImageLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Services/BookStatistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/Services/BookStatistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Services/DocumentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Services/DocumentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Services/ImageLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Services/ImageLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Services/ImageLoaderFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Services/ImageLoaderFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Services/JPGImageLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Services/JPGImageLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Services/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Visitor.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2KWdxae7qcgDscy4lAKb8YCHKyQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/David/Desktop/Uni-Project-SP/Design Patterns/src/Spring/build.gradle",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cdb897d-91e0-453b-84d6-2fa3553694b5" name="Changes" comment="" />
+      <created>1674094519827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674094519827</updated>
+      <workItem from="1674094520946" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

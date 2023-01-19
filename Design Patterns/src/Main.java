@@ -1,5 +1,5 @@
-import Models.*;
-import Services.*;
+import Main.Models.*;
+import Main.Services.*;
 
 public class Main {
 
